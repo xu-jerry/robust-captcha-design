@@ -3,25 +3,25 @@
 - preprocessing.ipynb: 
 
 tutorials about image preprocessing using Pillow
-- model.py: 
+- model.py
 
 training the model on the dataset
 
-- archive: 
+- archive 
 
 dataset of undistorted images
 
-- DisCaptcha_v0:
+- DisCaptcha_v0
 
 distorted images(distortion level: 50)
-- Scripts2CreateDisCaptcha.ipynb: 
+- Scripts2CreateDisCaptcha.ipynb
 
 you can use this script to utilize a website to generate distorted image for you. Please change the file path and the parameters in the script.
-- ResultsWithNewDatasets.ipynb: 
+- ResultsWithNewDatasets.ipynb
 
 There are newest results of robots with CNN threat model on DisCaptcha_v1.
 
--Demo.ipynb:
+- Demo.ipynb
 
 This is a python notebook which shows a simple sine wave distortion model and example of distorted image.
 
