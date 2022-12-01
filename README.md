@@ -1,5 +1,5 @@
 # robust-captcha-design
-## files
+## File Description 
 - preprocessing.ipynb: tutorials about image preprocessing using Pillow
 - model.py: training the model on the dataset
 - archive: dataset of undistorted images
